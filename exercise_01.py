@@ -1,3 +1,3 @@
-print(hello)
+print("hello")
 age = 16
-print(I am (age) years old)
+print(f"I am (age) years old")
